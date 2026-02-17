@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHBjRHRQWUtab29aazlKWmtsYUdJeGlvcSsySGlUSjJGOU1tcVNqRkVVNWRnM2ZGSXl3dUlYa0tqSEpSRnhKRDZhSGNPWmZLZGh2dWNTNWxOTXo4NkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzMzNDczCWZpbGU6dWlfMi4wLjFfeDY0LXNldHVwLmV4ZQo4ZDZUeFFBeEpFVlhkZDZuSk5WOEJMOHRzNExIV1kwNFVZYWFmbi94aUFjbGxhZW5vTDJkUndlT0VEeVk0ZW1ra0NGZ0pKMDI5aFRLTHpERE9wS0ZCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVGxhTE5YeXBVdEx3ai9wY2RMVGQ0bWhhNWRQeXIvVWx2cmwzaGx3TlkxWXp2NTZqajd5Sk04dDhXYlBWTzhzdkk4OVdJc0t6dVFZenRqL0pDZWJweWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzMzNTY0CWZpbGU6dWlfMi4wLjJfeDY0LXNldHVwLmV4ZQpFQmRuUlpwRkJydlpTTlBvWUJhWWtaWVhadkpYTDc0SEYyK0VRSVc4RDk2N204cE5zNnNyS2JHa0pDbXJ1VG9NOGxSTkVzanhPRjhxYzRCeVJ4TGhCUT09Cg==",
       "installMode": "passive"
     }
   }
