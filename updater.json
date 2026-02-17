@@ -3,7 +3,7 @@
   "notes": "AWP update something!",
   "pub_date": "2026-02-17T12:00:00Z",
   "platforms": {
-    "windows": {
+    "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/software.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHVJOTUweHhGQWtVbjc0S29SOHZRL1BzOXJpa2V0N25lMDRqTHNGd21nRTBZZUg0bkhkeFFyQ21VVFlFL01RM3J5VTdKbGtXZWJ3V29TemY3U3Z3b3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzIzOTQwCWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQp6L0Y1aG9MejgzcjhnaHZxelduZCsrQmQvbWRRYzNFcGV5NXlxN3A3TjB1U3FFanp3SDN1Qnl1OGRqNDdtVDQvZmd4UGdpc0gveVU5QjlkU1pIT3dCZz09Cg==",
       "installMode": "passive"
