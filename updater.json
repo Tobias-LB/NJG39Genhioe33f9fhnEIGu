@@ -4,8 +4,8 @@
   "pub_date": "2026-02-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVGtvNDNmN2tidDJOa1VMRnVDNTkzNGJadUVXR0pqd3cxUys2WkQ3cjh2R1RDcmNuRVh5Y25qalhxWGdlalRXbnVDYTYxN0R4WmJYTmJ5WWYxMDF4ckFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzI2MDEzCWZpbGU6dWlfMi4wLjFfeDY0LXNldHVwLmV4ZQoyZUorSHU1ZWJidHdyOHhCaWxtYThrOGpYZmJ1QkJpa3dwVEsyeHNQSytCVnQyckxOazVtZkhBNTdxTHdESEVIYllsSldxTHV1K0tYNW9vWFVnd1JDZz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHFnYnQxWE4ybVhIbE5mbENqSUtUN2U4ODNJTlZNVFltVHNZRDRBSVNXOXEvTnRkMHNPVytxZDhvWU1VT2dHSVNZakg2WkEyY3lGVGMycGpSSHMyRndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzMzMDQxCWZpbGU6dWlfMi4wLjJfeDY0LXNldHVwLmV4ZQpWaVBUNHgvYk82R3d2am9tSFlXaFV6K005eWdtdnI2WVVlekdOb0Vtd0hzRlAvQzBHR1dSM3NEdWU2ZUlDZFhxR1kzVm8xOEQvQk9vdGNxTXJqbFBEdz09Cg==",
       "installMode": "passive"
     }
   }
