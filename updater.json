@@ -1,11 +1,11 @@
 {
-  "version": "2.0.3",
-  "notes": "Finished the main ui and started on making Raknet tab.",
+  "version": "2.0.4",
+  "notes": "Probably finished the UI for release by now.",
   "pub_date": "2026-02-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHZFSDVsZDEwbHV5Yk45RkdMc1FEQ05zbnN3UmZpNFpGN0d0cWRlbHhLNXlmK1VLYm9VSmRpN0ljMitiTnFJUmZiUHhIZU5iM3BPL3JUMURubDZCR0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzc3NjEyCWZpbGU6dWlfMi4wLjNfeDY0LXNldHVwLmV4ZQozUXBIN0paeEwzQjI0WGRIRHFSMG40SzcraFVpc1JUaEZxWlRSVVM5cUdOUUIxVkwzbmY5NUFNckxsbjEzMVBCbHoxcllSSTE0NWZjZEVqcGIyRzNBZz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHNPMnJkZlhySWZBL0xpS3dyR1l3cFhkS2xPQXNUc0J1Z1I1a254ZUdjZHpuWGxuK1pUYzNkQzVYQlF3WitFVS9CZkJPTzB3MUV0TmFRaTErNjl1SGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjEzMTUwCWZpbGU6dWlfMi4wLjRfeDY0LXNldHVwLmV4ZQozRUZrakpzbDFpVUlMMUJaMkNUSWl1MTMyaEJ2YlJIWG56T29vTFRIakJOclYvcjduSFRvTXlFaE85UWZLSHNKTTdVOUtSbmx2d1AyMEQ0TGQwK1lEZz09Cg==",
       "installMode": "passive"
     }
   }
