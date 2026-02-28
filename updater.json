@@ -1,11 +1,11 @@
 {
-  "version": "2.0.4",
-  "notes": "Probably finished the UI for release by now.",
+  "version": "2.0.5",
+  "notes": "Added more stuff to the UI and optimized it maybe?",
   "pub_date": "2026-02-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHNPMnJkZlhySWZBL0xpS3dyR1l3cFhkS2xPQXNUc0J1Z1I1a254ZUdjZHpuWGxuK1pUYzNkQzVYQlF3WitFVS9CZkJPTzB3MUV0TmFRaTErNjl1SGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjEzMTUwCWZpbGU6dWlfMi4wLjRfeDY0LXNldHVwLmV4ZQozRUZrakpzbDFpVUlMMUJaMkNUSWl1MTMyaEJ2YlJIWG56T29vTFRIakJOclYvcjduSFRvTXlFaE85UWZLSHNKTTdVOUtSbmx2d1AyMEQ0TGQwK1lEZz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVHBvbWpOR3ZrSXJPL3U0d2lnTUE4RVpGNEhHeVJUdzRLa3Fqc0tDbmg1ampneG43QW5keUJ4QlhIbWQvTFR2czBER0pyb1BqU1A1Z1k2QXRRZ3lZelFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMjgzNTI1CWZpbGU6dWlfMi4wLjVfeDY0LXNldHVwLmV4ZQppcERKVVhzOERLOHVobUNVWlQ1VVh3WjhMKzJvcnU4VG9waERCK2pUcU5ld1h1WEJ2RFBtL2pNUURBYy9MbWpQak45Z0hYK3ZtMjZRK0JzVDVrTzhBUT09Cg==",
       "installMode": "passive"
     }
   }
