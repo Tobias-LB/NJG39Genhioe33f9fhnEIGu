@@ -1,11 +1,11 @@
 {
-  "version": "2.0.7",
-  "notes": "MORE SETTINGSSSS.",
+  "version": "2.0.8",
+  "notes": "Adding more login security.",
   "pub_date": "2026-03-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.7_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSQlYxaDJHZ25WVGp0aDJuVnlQY2xQMEFCdUZ5S0R0QjRTRVlac2hMWkdiTHFYRUlJZHBDZ1dEREtINkE4MTA3RklERmFBSldrb1dkZktQOEt3T2FzUUpRZDVQS3hUV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMTY1NzQ2CWZpbGU6dWlfMi4wLjdfeDY0LXNldHVwLmV4ZQpkbTFiSXF5dEZZbysxS1d0bGZXL0hvS3IxOHNvSGlLTWxxV3MxWGFOQlB6ZW9oaGVvYlU0d2d2aWR1Q1Z5aFB0c3h1Q3BEWk9vYTB1WjVXMjBRWXZEdz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.8_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnhEUjZ0MDI1SzRvYndrelFkeTJ2aTEvbDdBUUx0UHhwR0tOZWpuRzI0OGxWeEtWTWQ1Z1c3QmdtOCtCSEtDeHRNVGdSUWJobVVxR2psTHJMckdJM2sxanJjd3hMSWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDI0MjM1CWZpbGU6dWlfMi4wLjhfeDY0LXNldHVwLmV4ZQpxcjNKZmp4ME54bnFJOTJ3N2FmbWwza3c5Y0dQME5hOE1aSWFrVzQrclYwY3ZzLzkzcXNLd2o0VXdOckY3SllDN3ZZYWRaL0dTQy8zL0crTVpOR0hEdz09Cg==",
       "installMode": "passive"
     }
   }
