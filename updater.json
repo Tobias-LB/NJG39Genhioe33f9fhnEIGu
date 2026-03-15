@@ -1,11 +1,11 @@
 {
-  "version": "2.0.8",
-  "notes": "Adding more login security.",
+  "version": "2.0.9",
+  "notes": "UI is probably actually done, maybe gonna add future workspace updates.",
   "pub_date": "2026-03-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.8_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnhEUjZ0MDI1SzRvYndrelFkeTJ2aTEvbDdBUUx0UHhwR0tOZWpuRzI0OGxWeEtWTWQ1Z1c3QmdtOCtCSEtDeHRNVGdSUWJobVVxR2psTHJMckdJM2sxanJjd3hMSWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNDI0MjM1CWZpbGU6dWlfMi4wLjhfeDY0LXNldHVwLmV4ZQpxcjNKZmp4ME54bnFJOTJ3N2FmbWwza3c5Y0dQME5hOE1aSWFrVzQrclYwY3ZzLzkzcXNLd2o0VXdOckY3SllDN3ZZYWRaL0dTQy8zL0crTVpOR0hEdz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.9_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnhEUjZ0MDI1SzJHZXlUSjBWcFhCQ3JKenFOZElBSjdDZFN0V0RyOHVRUEZKSTc5emRCZUswQ2tDNWVVMUVYbWowbHVnTXZVb3J5RUkrOGl6dXRja3FzSHo5eVRrcGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNTk2Mjc5CWZpbGU6dWlfMi4wLjlfeDY0LXNldHVwLmV4ZQpBZnF2d2JOUS90SitNd2pITUlhYVl1OTlMK0x0Y09EVFh2Vm1JR1EyMWd0blo4UlJFMDVXVmRvanIwWmdnemRYOXl6MG1qRmFwQkV3czliSHk4TGFEdz09Cg==",
       "installMode": "passive"
     }
   }
