@@ -1,11 +1,11 @@
 {
-  "version": "2.0.9",
-  "notes": "UI is probably actually done, maybe gonna add future workspace updates.",
-  "pub_date": "2026-03-07T12:00:00Z",
+  "version": "2.0.0",
+  "notes": "Release status.",
+  "pub_date": "2026-03-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.9_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTU3UjJ1K1hPNnE4anZIRTZXVUNtQVdWRXY5Tm1nWG92VjNFK3QxZjNuWm12V3hQdDhGdE9Lc1gyVE5JcjV2MUtSQnBnNkFyRDFpS0pqTXM5VXRnRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzEwOTMwCWZpbGU6dWlfMi4wLjlfeDY0LXNldHVwLmV4ZQpVdU05bkhDYm9JQUtPcEJSUWJJdC9BU1JXM0lOWEpUcXEvR3VIYVhVUmhabVNFTGdjZkMwMDJwcnY4dUsrV3dackN0QVRJQ2QzOUtzRDRXd2hqU1BCUT09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOStsOFhFYWM0b2JFcm1zZXQxT2xBR2RLUUU4K0ZJeEJUYzRqdjVmb05senhiWElydnVNTE9EYWtuSGsxMFMwaDhBMlVnNFJrTEtYYTFZS2lDNnoydHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzExMjM0CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQp4RnQxNGplNFFFcm5YaisrZFErU0lYdmN6TlpLUnNIbnk0MXdITWhTdk0xeHZQNCtoQUNnckN0UTZVbjZXQWtZNm01MDYxVS9wam5LQ1RkaHJlTkhEUT09Cg==",
       "installMode": "passive"
     }
   }
