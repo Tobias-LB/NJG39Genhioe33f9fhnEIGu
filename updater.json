@@ -1,11 +1,11 @@
 {
   "version": "2.0.0",
-  "notes": "Release status.",
-  "pub_date": "2026-03-17T12:00:00Z",
+  "notes": "Fixed some dialogs not darkening the titlebar.",
+  "pub_date": "2026-03-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOXdOc29UQTZMSFhOUHIxUG5YdmF6a2RaWXhWTlZoZFFCam04bkxVeHRrVlRHS2phczhTNWZVcU5URU40akFlWlcwYjFValhwVm92MGRVYlNqZk5LZXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzU1MTc3CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpnQWVlZTBRWElNK0o1VVdTeW1xOG9LSDFMSkJWZGQ4ZERyZEp5OGtYWUxId0NQVXlQZUl3djkrL2toMERyL2wvWXY4TERSdzZTREVOY3Job1FQRkdCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTFQenMwSDI3VDNWMGNPczF3SmJtVWIreDJMZmJxUmRaTCtSR0E4d1EwZURPbXJPbUpaVDhZTUZNeDNpRFV1b1hPUWtQMXlmZmcraEVnUTBjVFVuOEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzU3MDY1CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpwTXE3LzNLenExc1JIenhxSEJpQUxuZzFEVnZVd0ExaGNlVzVDSVNYaEhSUFlWVVc4TTNYOVJxTHAwbHUwZ0N4anFEeDlVbksrai9aUDRJNU5kRzBBZz09Cg==",
       "installMode": "passive"
     }
   }
