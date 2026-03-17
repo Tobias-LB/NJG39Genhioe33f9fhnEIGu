@@ -1,11 +1,11 @@
 {
   "version": "2.0.0",
-  "notes": "Release status.",
+  "notes": "Fixed crash on login.",
   "pub_date": "2026-03-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOStsOFhFYWM0b2JFcm1zZXQxT2xBR2RLUUU4K0ZJeEJUYzRqdjVmb05senhiWElydnVNTE9EYWtuSGsxMFMwaDhBMlVnNFJrTEtYYTFZS2lDNnoydHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzExMjM0CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQp4RnQxNGplNFFFcm5YaisrZFErU0lYdmN6TlpLUnNIbnk0MXdITWhTdk0xeHZQNCtoQUNnckN0UTZVbjZXQWtZNm01MDYxVS9wam5LQ1RkaHJlTkhEUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTVMRDhmY0RvbGNORDFHNVdsRUk4UHh5cHAyUGY5WmJ1U0ZkNlRZWkZUS09ENVJFMUd1akhvQW9WamFiK1BnN2YrbUw5YmNqcm42a3hpbGpjRTM2U2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzUzNDM0CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpQeURNR2wwREx5WGVkOXM1TUMwMVUrd1NucGVOMERVakZ2RWdGRmFES2VDQ1VhdFJXVG5aQzY0T1drajJlcXU5SmVCalczMFhBL25ScDlSb3c2OXpEUT09Cg==",
       "installMode": "passive"
     }
   }
