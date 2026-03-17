@@ -1,11 +1,11 @@
 {
-  "version": "2.0.9",
+  "version": "2.1.0",
   "notes": "UI is probably actually done, maybe gonna add future workspace updates.",
   "pub_date": "2026-03-07T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.9_x64-setup.exe",
-      "signature": "W50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTFxNFEzeUpQMlkzZkFPRkMyZTdyYysvV01oUEZwNlpySzFuNmpKWDVweWFDcHY4RXJGQzdQMk1iT21uVFhPSW9yV3NPekRPTkt0eEg3VnNvNENhaUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzEwMTg1CWZpbGU6dWlfMi4wLjlfeDY0LXNldHVwLmV4ZQpHdkltWWpMdXRwOS9mR1BpQVowYU1tSFNvZENaVHdtcU9yby9TdzdhWjNXSlpUZTJUT0Fsd2wzQ1ZxVVNlUmNQR1lpTU53MFMvaG1jcVNxK05GMTBEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTU3UjJ1K1hPNnE4anZIRTZXVUNtQVdWRXY5Tm1nWG92VjNFK3QxZjNuWm12V3hQdDhGdE9Lc1gyVE5JcjV2MUtSQnBnNkFyRDFpS0pqTXM5VXRnRHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzEwOTMwCWZpbGU6dWlfMi4wLjlfeDY0LXNldHVwLmV4ZQpVdU05bkhDYm9JQUtPcEJSUWJJdC9BU1JXM0lOWEpUcXEvR3VIYVhVUmhabVNFTGdjZkMwMDJwcnY4dUsrV3dackN0QVRJQ2QzOUtzRDRXd2hqU1BCUT09Cg==",
       "installMode": "passive"
     }
   }
