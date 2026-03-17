@@ -1,7 +1,7 @@
 {
   "version": "2.0.1",
   "notes": "Fixed some dialogs not darkening the titlebar.",
-  "pub_date": "2026-03-18T12:00:00Z",
+  "pub_date": "2026-03-17T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/ui_2.0.1_x64-setup.exe",
