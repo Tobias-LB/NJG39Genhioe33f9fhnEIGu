@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "notes": "Release.",
   "pub_date": "2026-03-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/download/ui_2.0.0_x64-setup.exe",
+      "url": "c4ea780d67f8794a9edc8a6d:d2cdc79616624f04d8c82e13fa981ee3fc0fb846b592d2b789e77fca90174e579db9b0c677e8a09246a197a302dd65a900128e5bb35f54f1a0f4fc41d0e4746e52055de411bf30672c1a7fb90975a7217a04b61eb9b7d910210a973e3a95b73fafd78ebfe54045459d26d50f0ef67a280999114f94a837cfbf440ac961d6b310367b6d377d0b5957dfdb236bfa7ca1d37a02bd4fd22c049c71335930dc6f571c04346197ccc278b5564836c161f69eb7b949c22db1a88dbaf276f12a5398dc9f69ee:0bbad85c0a7579f2904b8479ad138cbe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTdmb01sVStxMU84R0tuUGtLR21ZVVlSTW9CdnFNSDQ4Q0RLS2VBY1l0RDlQYVJIOVVucW43WENQSUQrSVZ1aEhnVmd6RG54RktEOFl4Sk16ZytJQndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODUyNjQ2CWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpRa2FjSEFqZjZnUVlRT1R4ZWpLQThCWFRyS0lWdzVlVm9ZKzhTRStibEs3WjM1TjdDWnBxeDY5QmpUcE1vZHpKSWdKYnMrVWJuV3lsZWdReTBoeHZDUT09Cg==",
       "installMode": "passive"
     }
