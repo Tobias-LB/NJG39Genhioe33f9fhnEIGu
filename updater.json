@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
-  "notes": "Release.",
+  "version": "2.0.0",
+  "notes": "Release status.",
   "pub_date": "2026-03-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/download/ui_2.0.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOThqNzJDQ3dnWW5IenVDZ1J6RktRenVzeXhsaFZsb1l0WmF4aVNyb2N5czlTQkVOMmlONW1XQ0tyWHR5VTJSSzB3TnNOWTFRcDVUUFIyTTdmYlFqa1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODU0MjY5CWZpbGU6dWlfMi4wLjFfeDY0LXNldHVwLmV4ZQpCZ2V2YncxYUduMVI5UkJqZmNuWFdkWVFoRW1zdjFxdmdxdm1ubEloTzhUNmlKbkppdHRVc1orTE9zR0lFNjJnZVkxN0hTZEtNN3FHcXJsRU1ndUhBZz09Cg==",
+      "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/download/ui_2.0.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTVEY1JscDVOY2hLVXlLSmxpdlh5VWl6bWpicVZLK0ZtS2VuWjY5YzBoTTBFSnBocVRQTFBhWnhKQi9ueDdQOUpNTDhMWnRNdWpXLytKNlNrLzN4MWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODU2NzUwCWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpXMWpyczN3b3FwbEFTdjU3bVJuRzRyaGh1bzRVY2FBRlZOa1V0eGVJenFCRk8yWEplTDBYdzUvam5pTjh0Nm82aDdoeUpnWDhqckNWVGM1bHNHUzdEdz09Cg==",
       "installMode": "passive"
     }
   }
