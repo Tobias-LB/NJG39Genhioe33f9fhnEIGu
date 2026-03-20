@@ -1,11 +1,11 @@
 {
   "version": "2.0.0",
   "notes": "Release status.",
-  "pub_date": "2026-03-18T12:00:00Z",
+  "pub_date": "2026-03-20T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/Tobias-LB/NJG39Genhioe33f9fhnEIGu/raw/refs/heads/main/download/ui_2.0.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTVEY1JscDVOY2hLVXlLSmxpdlh5VWl6bWpicVZLK0ZtS2VuWjY5YzBoTTBFSnBocVRQTFBhWnhKQi9ueDdQOUpNTDhMWnRNdWpXLytKNlNrLzN4MWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODU2NzUwCWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQpXMWpyczN3b3FwbEFTdjU3bVJuRzRyaGh1bzRVY2FBRlZOa1V0eGVJenFCRk8yWEplTDBYdzUvam5pTjh0Nm82aDdoeUpnWDhqckNWVGM1bHNHUzdEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHVWK0s1aTJxOTV5Q0xpRWdCTHpsTDlrWklTUk9FeVZGL3BrTDZUQSticnA0M0RsT003YzhlNysyOUlrcC9yNklTcFA0TFhLYkZKSm4wMURWTWxGWFZETXNkTFFxVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDE2MDgxCWZpbGU6dWlfMi4wLjBfeDY0LXNldHVwLmV4ZQppZW45alBGWTNpV2UxSkgyWm82bXVRcCs3QjhEVDFyR2R0WDVKZUhhenRqUGtvZTA3NzRWVU44WnpKQ1ZQUWFwY053WlRZeitES0lhbVV1Um1hZ2REQT09Cg==",
       "installMode": "passive"
     }
   }
